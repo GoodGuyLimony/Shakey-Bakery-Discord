@@ -1,0 +1,59 @@
+﻿capital = 4
+
+set_research_slots = 4
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	neutrality = 50
+	fascism = 10
+	democratic = 30
+	communism = 10
+}
+
+set_stability = 0.50
+
+create_country_leader = {
+	name = "Senate of Bagel Barons"
+	desc = ""
+	picture = GFX_portrait_Hashim_al_Atassi
+	ideology = liberalism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Cabinet of Muffin Moderators"
+	desc = ""
+	picture = GFX_portrait_Pierre_Gemayel
+	ideology = fascism_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Lord Protector"
+	desc = ""
+	picture = GFX_portrait_Melick_Yarad
+	ideology = despotism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Soviet of Cornbread Commoners"
+	desc = ""
+	picture = GFX_portrait_Rami_Sarraff
+	ideology = anarchist_communism
+	traits = {
+		#
+	}
+}
