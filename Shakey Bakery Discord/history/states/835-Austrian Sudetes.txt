@@ -1,0 +1,27 @@
+state={
+	id=835
+	name="STATE_835"
+	state_category = rural
+	provinces={
+		543 557 5283 7857 11525 
+	}
+	manpower=720000
+	history=
+	{
+		owner = SBD
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			anti_air_building = 1
+		}
+		add_core_of = SBD
+		add_core_of = CZE
+
+		1938.9.30 = {
+			owner = GER
+			controller = GER
+		}
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
