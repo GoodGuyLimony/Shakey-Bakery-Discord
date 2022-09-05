@@ -21,7 +21,7 @@ set_stability = 0.50
 create_country_leader = {
 	name = "Senate of Bagel Barons"
 	desc = ""
-	picture = GFX_portrait_SBD_senate_of_bagel_barons
+	picture = GFX_senate_of_bagel_barons
 	ideology = liberalism
 	traits = {
 		#
@@ -31,7 +31,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Cabinet of Muffin Moderators"
 	desc = ""
-	picture = GFX_portrait_SBD_cabinet_of_muffin_moderators
+	picture = GFX_cabinet_of_muffin_moderators
 	ideology = fascism_ideology
 	traits = {
 		#
@@ -41,7 +41,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Lord Protector"
 	desc = ""
-	picture = GFX_portrait_SBD_lord_protector
+	picture = GFX_lord_protector
 	ideology = despotism
 	traits = {
 		#
@@ -51,7 +51,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Soviet of Cornbread Commoners"
 	desc = ""
-	picture = GFX_portrait_SBD_soviet_of_cornbread_commoners
+	picture = GFX_soviet_of_cornbread_commoners
 	ideology = anarchist_communism
 	traits = {
 		#
