@@ -21,6 +21,12 @@ state={
 		}
 		add_core_of = SBD
 		add_core_of = ITA
+
+		1938.3.12 = {
+			owner = ITA
+			controller = ITA
+			add_core_of = ITA
+		}
 	}
 
 	provinces={
