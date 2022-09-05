@@ -1,5 +1,5 @@
 SBD = "countries/Shakey Bakery Discord.txt"
-GER	= "countries/Germany.txt"
+SBR	= "countries/Germany.txt"
 ENG = "countries/United Kingdom.txt"
 SOV = "countries/Soviet Union.txt"
 SWE	= "countries/Sweden.txt"

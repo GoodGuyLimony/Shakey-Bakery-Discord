@@ -36,9 +36,9 @@ state={
 		add_core_of = AUS
 
 		1938.3.12 = {
-			owner = GER
-			controller = GER
-			add_core_of = GER
+			owner = SBR
+			controller = SBR
+			add_core_of = SBR
 		}
 	}
 
