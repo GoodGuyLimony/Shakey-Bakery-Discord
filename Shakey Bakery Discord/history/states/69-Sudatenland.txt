@@ -67,8 +67,8 @@ state=
 		add_core_of = CZE
 
 		1938.9.30 = {
-			owner = SBR
-			controller = SBR
+			owner = GER
+			controller = GER
 		}
 	}
 	provinces=
