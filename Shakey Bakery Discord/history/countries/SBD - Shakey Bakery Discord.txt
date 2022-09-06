@@ -17,43 +17,9 @@ set_popularities = {
 }
 
 set_stability = 0.50
+set_war_support = 0.30
 
-create_country_leader = {
-	name = "Senate of Bagel Barons"
-	desc = ""
-	picture = GFX_senate_of_bagel_barons
-	ideology = liberalism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Cabinet of Muffin Moderators"
-	desc = ""
-	picture = GFX_cabinet_of_muffin_moderators
-	ideology = fascism_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Lord Protector"
-	desc = ""
-	picture = GFX_lord_protector
-	ideology = despotism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Soviet of Cornbread Commoners"
-	desc = ""
-	picture = GFX_soviet_of_cornbread_commoners
-	ideology = anarchist_communism
-	traits = {
-		#
-	}
-}
+recruit_character = SBD_lord_protector
+recruit_character = SBD_cabinet_of_muffin_moderators
+recruit_character = SBD_senate_of_bagel_barons
+recruit_character = SBD_soviet_of_cornbread_commoners

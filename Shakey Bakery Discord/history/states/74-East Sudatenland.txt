@@ -12,7 +12,7 @@ state=
 		victory_points = {
 			3583 5
 		}
-		owner = SBD
+		owner = CZE
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1
@@ -33,7 +33,6 @@ state=
 				bunker = 1
 			}
 		}
-		add_core_of = SBD
 		add_core_of = CZE
 
 		1938.9.30 = {

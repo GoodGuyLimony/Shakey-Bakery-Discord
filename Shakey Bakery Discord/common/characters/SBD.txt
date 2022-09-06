@@ -1,0 +1,54 @@
+characters={
+	SBD_lord_protector={
+		name="Lord Protector"
+		portraits={
+			civilian={
+				large="gfx/leaders/SBD/portrait_SBD_lord_protector.dds"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+    SBD_cabinet_of_muffin_moderators={
+		name="Cabinet of Muffin Moderators"
+		portraits={
+			civilian={
+				large="gfx/leaders/SBD/portrait_SBD_cabinet_of_muffin_moderators.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+    SBD_soviet_of_cornbread_commoners={
+		name="Soviet of Cornbread Commoners"
+		portraits={
+			civilian={
+				large="gfx/leaders/SBD/portrait_SBD_soviet_of_cornbread_commoners.dds"
+			}
+		}
+		country_leader={
+			ideology=anarchist_communism
+			expire="1965.1.1.1"
+			id=-1
+		}
+    }
+    SBD_senate_of_bagel_barons={
+		name="Senate of Bagel Barons"
+		portraits={
+			civilian={
+				large="gfx/leaders/SBD/portrait_SBD_senate_of_bagel_barons.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+    }
+}
